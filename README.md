@@ -95,3 +95,25 @@ workarounds using SQL analytics and Power BI visualization.
 Venkata Sai Krishna Baggu
 GitHub: [@bvskrishna3137](https://github.com/bvskrishna3137)
 LinkedIn: [saikrishna30](https://www.linkedin.com/in/saikrishna30)
+
+---
+
+## Research Dashboards
+
+### Dashboard 1 — Executive Overview
+![Executive Overview](05_Figures/Dashboard_01_Executive_Overview.png)
+
+### Dashboard 2 — Client Performance Analysis
+![Client Performance](05_Figures/Dashboard_02_Client_Performance.png)
+
+### Dashboard 3 — Trade Category Analysis
+![Trade Category](05_Figures/Dashboard_03_Trade_Category.png)
+
+### Dashboard 4 — Vendor Performance Analysis
+![Vendor Performance](05_Figures/Dashboard_04_Vendor_Performance.png)
+
+### Dashboard 5 — Geographic Analysis
+![Geographic Analysis](05_Figures/Dashboard_05_Geographic_Analysis.png)
+
+### Dashboard 6 — NTE & Priority Analysis
+![NTE Priority](05_Figures/Dashboard_06_NTE_Priority.png)
